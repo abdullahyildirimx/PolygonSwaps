@@ -1,0 +1,22 @@
+{
+  "short_name": "QuickSwap",
+  "name": "QuickSwap",
+  "icons": [
+    {
+      "src": "./images/coins/MATIC.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/coins/MATIC.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

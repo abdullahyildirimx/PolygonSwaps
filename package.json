@@ -106,7 +106,6 @@
   "dependencies": {
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@pancakeswap-libs/uikit": "0.6.1",
-    "bignumber.js": "^9.0.1",
-    "caniuse-lite": "^1.0.30001616"
+    "bignumber.js": "^9.0.1"
   }
 }
